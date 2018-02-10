@@ -8,3 +8,4 @@ Generic tests for tutorial wide communication on github.
 
   ### Component Members
   - [Wessam Ali](https://github.com/wessam611) 37-11088
+  - [Maqarios Mohareb](https://github.com/Maqarios), 37-14604
