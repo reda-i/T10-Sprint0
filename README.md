@@ -15,3 +15,4 @@ Generic tests for tutorial wide communication on github.
   - [Haidy Ashraf](https://github.com/HeidiAshraf), He He He He
   - [Ahmed Hisham Rihan](https://github.com/ahmed1hisham), Let the games begin!
   - [Zeyad Ezzat](https://github.com/zeyadezzat), JUST SURVIVE !!
+  - [Omar Elsebai](https://github.com/Machiination), May the odds be ever in your favor.
