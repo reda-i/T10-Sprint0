@@ -11,4 +11,12 @@ Generic tests for tutorial wide communication on github.
   - [Nesrin Abdulaziz](https://github.com/NesrinAbdulaziz), such an **EASY** semester.
   - [Omar El-Sherif](https://github.com/OmarOES), I had commitment issues, just needed a little push.
 
+<<<<<<< HEAD
   - [Nehal Essam](https://github.com/KAREFSN), git it done
+=======
+  
+  ### Component Members
+  - Omar Elkilany 37-0732
+  - Nehal Essam 37-11466
+
+
