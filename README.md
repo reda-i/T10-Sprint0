@@ -11,10 +11,11 @@ Generic tests for tutorial wide communication on github.
   - [Nesrin Abdulaziz](https://github.com/NesrinAbdulaziz), such an **EASY** semester.
   - [Omar El-Sherif](https://github.com/OmarOES), I had commitment issues, just needed a little push.
 <<<<<<< HEAD
-  - [Lama Ahmed](https://github.com/lamaahmed166), SE: Sleep Expropriation
+  
 =======
 
   
   ### Component Members
   - Omar Elkilany 37-0732
->>>>>>> 68a4b280a38dcdfe14949d532d42b8e754b2db86
+  - Lama Ahmed Tageldin 37-8757
+
