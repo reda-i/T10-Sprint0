@@ -1,5 +1,6 @@
 
 
+
 # Github-Sprint0
 
 ## About 
@@ -25,7 +26,7 @@ Generic tests for tutorial wide communication on github.
   - [Sarah Ayman](https://github.com/SarahAyman), supercalifragilisticexpialidocious
   - [Lama Ahmed](https://github.com/lamaahmed166), SE: Sleep Expropriation
   - [Yomna Osama](https://github.com/YomnaOsama), Doneeeeeee
-  -[Ola elarif](https://github.com/olaelarif), funnyy
+  [Ola elarif](https://github.com/olaelarif), funnyy
   
   ### Component Members
   
