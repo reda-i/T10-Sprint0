@@ -28,6 +28,8 @@ Generic tests for tutorial wide communication on github.
   - [Lama Ahmed](https://github.com/lamaahmed166), SE: Sleep Expropriation
   - [Yomna Osama](https://github.com/YomnaOsama), Doneeeeeee
   - [Ola elarif](https://github.com/olaelarif), funnyy
+  - [Mariam Mahran](https://github.com/mariamkhmahran), Hii
+  
   
   ### Component Members
   
@@ -39,4 +41,7 @@ Generic tests for tutorial wide communication on github.
   
  . **Ola elarif** 
  >34-2880
+ 
+ . **Mariam Mahran** 
+ >37-16751
   
