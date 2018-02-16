@@ -1,9 +1,14 @@
 # Github-Sprint0
+<p align="center">
+<img src="http://i68.tinypic.com/2ywu612.png" alt="parasite" />
+<br />
+<br />
+</p>
 
 ## About 
 Generic tests for tutorial wide communication on github.
 
-  ### Input content here
+  ### Contributors
   - [Reda Ramadan](https://github.com/Logician724), mark **_down_** is a mark **_up_** language 
   - [Wessam Ali](https://github.com/wessam611), I couldn't think of something 
   - [Maqarios Mohareb](https://github.com/Maqarios), <something_funny>
