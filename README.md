@@ -36,8 +36,8 @@ Generic tests for tutorial wide communication on github.
   - [Salma Ghoneim](https://github.com/SalmaGhoneim), Should've done this earlier.
   
      ### Component Members
-  - Omar Elkilany 37-0732
-  - Lama Ahmed Tageldin 37-8757
-  - Nehal Essam 37-11466
-  - Sarah Ayman 37-3459
-  - Ali Shady 37-1054
+  - [Omar Elkilany](https://github.com/OmarElkilany), 37-0732
+  - [Lama Ahmed](https://github.com/lamaahmed166), 37-8757
+  - [Nehal Essam](https://github.com/KAREFSN), 37-11466
+  - [Sarah Ayman](https://github.com/SarahAyman), 37-3459
+  - [Ali Shady](https://github.com/AliShady), 37-1054
