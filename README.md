@@ -32,8 +32,9 @@ Generic tests for tutorial wide communication on github.
   - [Nadine Hany](https://github.com/nadinehany),ay 7agaa
   - [Dalia Shoeb](https://github.com/DaliaShoeb),..
   - [Mariam Mahran](https://github.com/mariamkhmahran), Hii
-
-   
+  - [Ola Elarif](https://github.com/olaelarif), hi thereee
+  - [Salma Ghoneim](https://github.com/SalmaGhoneim), Should've done this earlier.
+  
   ### Component Members
   - [Reda Ramadan](https://github.com/Logician724) **_37-14485_**
   - [Olfat Mostafa](https://github.com/OlfatMostafa) **_37-19029_**
